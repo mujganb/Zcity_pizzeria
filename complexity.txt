@@ -1,0 +1,10 @@
+The complexity of building block for each pizzeria location is (2*k+1) where k is the distance that is given as a delivery person will travel to deliver pizza. 
+
+Final complexity of the function zcity_pizzeria is M*(2*k+1) where M is the number of pizzeria in the city. This is equivalent to 2*M*k+M.
+
+Hence, final complexity of the function is O(M*k).
+
+The complexity of the solution can be enhanced by avoiding loops and cycles. 
+
+
+
