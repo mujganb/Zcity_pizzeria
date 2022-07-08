@@ -27,20 +27,14 @@ Write one number to the standard output that represents the number of pizzerias 
 
 ## Project Content
 ```
-zcity_pizzeria.ipynb
+zcity_pizzeria.ipynb A file containing API for the solution of the problem described. Returns the number of pizzerias that delivers in the best spot of the city.
 ```
-A file containing API for the solution of the problem described. Returns the number of pizzerias that delivers in the best spot of the city.
-
 ```
-test.txt
+test.txt A file to test the API.
 ```
-A file to test the API.
-
 ```
-report.txt
+report.txt A file on how I approached this problem briefly.
 ```
-A file on how I approached this problem briefly.
-
 ## Technologies
 
 Project is created with Python 3
