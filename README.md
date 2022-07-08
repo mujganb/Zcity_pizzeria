@@ -26,15 +26,19 @@ OUTPUT:
 Write one number to the standard output that represents the number of pizzerias that deliver pizzas to the block with the greatest selection of pizzas.
 
 ## Project Content
-
-> zcity_pizzeria.ipynb  
+```
+zcity_pizzeria.ipynb
+```
 A file containing API for the solution of the problem described. Returns the number of pizzerias that delivers in the best spot of the city.
-```
-test.txt  
-```
-A file to test the API. 
 
-> report.txt  
+```
+test.txt
+```
+A file to test the API.
+
+```
+report.txt
+```
 A file on how I approached this problem briefly.
 
 ## Technologies
