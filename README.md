@@ -36,6 +36,9 @@ A file to test the API.
 - report.txt  
 A file on how I approached this problem briefly.  
 
+- complexity.txt  
+A file on explaining the complexity of the project.  
+
 ## Technologies
 
 Project is created with Python 3
