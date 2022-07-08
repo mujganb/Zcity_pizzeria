@@ -29,8 +29,9 @@ Write one number to the standard output that represents the number of pizzerias 
 
 > zcity_pizzeria.ipynb  
 A file containing API for the solution of the problem described. Returns the number of pizzerias that delivers in the best spot of the city.
-
-> test.txt  
+```
+test.txt  
+```
 A file to test the API. 
 
 > report.txt  
