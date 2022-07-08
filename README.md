@@ -5,7 +5,7 @@ A problem related to minimum spanning tree. Kruskal algorithm is selected as a s
 #### Table of Contents
 
 1. [Problem Overview](#Problem-overview)
-2. [Installation](#
+2. [Project Content](#project-content)
 3. [Technologies](#Technologies)
 
 ## Problem Overview
@@ -27,9 +27,19 @@ Write one number to the standard output that represents the number of pizzerias 
 
 ## Project Content
 
-> python zcity_pizzeria.ipynb 
+> zcity_pizzeria.ipynb 
+A file containing API for the solution of the problem described. Returns the number of pizzerias that delivers in the best spot of the city.
 
+> test.txt
+A file to test the API. 
 
+Input:  
+5 2  
+3 3 2  
+1 1 2  
+
+Output:  
+2
 
 ## Technologies
 
