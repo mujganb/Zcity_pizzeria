@@ -1,0 +1,9 @@
+The Z city pizzeria problem is related to minimum spanning tree concept. A minimum spanning tree is a subset of the edges of a connected, edge-weighted undirected graph that connects all the vertices together, without any cycles and with the minimum possible total edge weight [1]. 
+
+An algorithm applied in this project adds the next lowest weight edge in each step that will not form a cycle to the tree. This method is also known as Kruskal's algorithm. Kruskal's algorithm finds the subset of edges of the undirected input graph.
+
+During the application, my first step was to check if the inputs are within the required range.
+
+After, I created empty blocks and applied Kruskal's algorithm for each pizzeria location distinctly. This gave me the subset of edges for each pizzeria location.
+
+At the end, I added up each subset of edges where the maximum weighted edge/edges gave me the best location in the city in terms of pizza delivery. The weight of the location is also the number of pizzeria that delivers to the location. Hence, maximum edge weight returned me the required output of this problem. 
